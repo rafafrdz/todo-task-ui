@@ -1,8 +1,12 @@
 # TODO-Task List
 
-En este proyecto desarrollamos con React una aplicación de lista de tareas, TODOs tasks, usando el siguiente entorno de desarrollo:
+En este proyecto desarrollamos con React una aplicación de lista de tareas, TODOs tasks.
+
+![task-list-ui](pics/task-list-ui.png)
 
 ## Entorno de desarrollo
+
+Para este proyecto estoy usando el siguiente entorno de desarrollo:
 
 * Contenedor Docker con todo lo necesario para empezar con React.
 * Docker-Compose con el puerto 3000 expuesto que es donde se desplegará nuestra aplicación web. Además apunta a la carpeta `app` dónde se aloja nuestra aplicación.
