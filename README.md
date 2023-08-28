@@ -4,10 +4,7 @@ En este proyecto desarrollamos con React una aplicación de lista de tareas, TOD
 
 ## Entorno de desarrollo
 
-* Contenedor Docker con todo lo necesario para empezar con React:
-  * nvm
-  * node
-
+* Contenedor Docker con todo lo necesario para empezar con React.
 * Docker-Compose con el puerto 3000 expuesto que es donde se desplegará nuestra aplicación web. Además apunta a la carpeta `app` dónde se aloja nuestra aplicación.
 * La carpeta `app` que es dónde se encuentra y desde donde desarrollaremos nuestra aplicacion.
 
